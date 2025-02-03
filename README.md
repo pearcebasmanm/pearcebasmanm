@@ -1,5 +1,7 @@
 ## Hi there, I'm Max 👋
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pearcebasmanm)
+
 I'm a Computer Science Student studying at Concordia University. I'm a lot more too, so you'll want to visit again when I've completed this.
 
 <!--
