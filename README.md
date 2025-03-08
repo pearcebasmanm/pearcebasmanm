@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pearcebasmanm)
 
-I'm a Computer Science Student studying at Concordia University. As a kid I started off with JavaScript, in high school I built some open-source software add-ons and made a multiplatoform statistics tracking app for my robotics team over a weekend in Dart/Flutter. Since then I've become a PL nerd, and keep learning languages (though I'll always have a special place in my heart for Rust). I've slung Python code for the ICPC, written firmware in C for Future Electronics, developed an AI browser extensions for ConUHacks, and have had a blast with it all.
+I'm a Computer Science Student studying at Concordia University. As a kid I started off with JavaScript, in high school I built some open-source software add-ons and made a multiplatoform statistics tracking app for my robotics team over a weekend in Dart/Flutter. Since then I've become a PL nerd, and keep learning languages (though I'll always have a special place in my heart for Rust). I've slung Python code for the ICPC, written firmware in C for Future Electronics, developed an AI browser extension for ConUHacks, and have had a blast with it all.
 
 Currently I'm focused on studies and my role as a Director of Technology for the Software Engineering and Computer Science Society at Concorda. But I'm also looking for a Summer 2025 internship, especially in Toronto or remote. As you might have guessed, I'm a pretty quick learner, and I'm confident I'll be a great member of your team (though to be sure, you should proably reach out and ask me).
 
