@@ -1,6 +1,6 @@
 ## Hi there, I'm Max 👋
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pearcebasmanm)
+[![Hits](https://hits.sh/github.com/pearcebasmanm.svg?color=a57bf3)](https://hits.sh/github.com/pearcebasmanm/)
 
 I'm a Computer Science Student studying at Concordia University. As a kid I started off with JavaScript, in high school I built some open-source software add-ons and made a multiplatoform statistics tracking app for my robotics team over a weekend in Dart/Flutter. Since then I've become a PL nerd, and keep learning languages (though I'll always have a special place in my heart for Rust). I've slung Python code for the ICPC, written firmware in C for Future Electronics, developed an AI browser extension for ConUHacks, and have had a blast with it all.
 
